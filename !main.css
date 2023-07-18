@@ -1,0 +1,9 @@
+div#bar {
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%;
+  background-color:transparent;
+  padding:20px;
+  border-bottom:5px solid lightgray;
+}
